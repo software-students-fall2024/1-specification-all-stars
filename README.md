@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 - Ian Pompliano: <https://www.github.com/ianpompliano>
 - Obinna Nwaokoro: <https://www.github.com/ocnwaokoro>
-- name3: <>
+- Marko Todorovic: <https://github.com/mtodorovic27>
 - name4: <>
 
 ## Stakeholders
