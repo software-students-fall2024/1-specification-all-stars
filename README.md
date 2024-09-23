@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - Ian Pompliano: <https://www.github.com/ianpompliano>
-- name2: <>
+- Obinna Nwaokoro: <https://www.github.com/ocnwaokoro>
 - name3: <>
 - name4: <>
 
