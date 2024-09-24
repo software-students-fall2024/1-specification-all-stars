@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 - Ian Pompliano: <https://www.github.com/ianpompliano>
 - Obinna Nwaokoro: <https://www.github.com/ocnwaokoro>
 - Marko Todorovic: <https://github.com/mtodorovic27>
-- name4: <>
+- Sanskriti Gupta: <https://github.com/sanskritig08>
 
 ## Stakeholders
 
@@ -58,4 +58,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+(https://www.figma.com/design/pbRY6IGHZGX6ccITl4KqNr/SE-Project-%231?node-id=0-1&t=InNZYEPLfvAnuJ0Q-1)
