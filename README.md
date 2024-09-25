@@ -55,6 +55,7 @@ To make health and fitness easy for everyone.
 ## Activity Diagrams
 
 ![](images/image1.png)
+****************************************************************************
 ![](images/image2.png)
 
 ## Clickable Prototype
