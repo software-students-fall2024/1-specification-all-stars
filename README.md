@@ -54,7 +54,8 @@ To make health and fitness easy for everyone.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![](images/image1.png)
+![](images/image2.png)
 
 ## Clickable Prototype
 [Clickable Protype](https://www.figma.com/proto/pbRY6IGHZGX6ccITl4KqNr/SE-Project-%231?node-id=122-127&node-type=canvas&t=SvlQ0GKfKolRl8Nu-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=122%3A127)
